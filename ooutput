@@ -1,0 +1,19 @@
+1. Add Student
+2. View All
+3. Update Marks
+4. Delete
+5. Exit
+Enter your choice: 1
+Enter ID, Name, Dept, Marks: 101 John CSE 89.5
+Student added.
+
+Enter your choice: 2
+101 John CSE 89.5
+
+Enter your choice: 3
+Enter Student ID and new Marks: 101 95.0
+Marks updated.
+
+Enter your choice: 4
+Enter Student ID to delete: 101
+Student deleted.
